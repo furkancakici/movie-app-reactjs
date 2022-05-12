@@ -2,7 +2,7 @@
 
 #### Omdb Api kullanılarak React ile geliştirilen movie-app. 
 
-CANLI : [LINK](cryptocurrency-app-reactjs.vercel.app/)
+CANLI : [LINK](https://movie-app-reactjs-omega.vercel.app/)
 
 
 #### Neler Kullandım / Öğrendim
